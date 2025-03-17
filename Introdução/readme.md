@@ -19,3 +19,7 @@ Estruturas de dados são formas de organizar e armazenar informações em um pro
 
 5. **Tabelas Hash - Armazenamento de Dados em Redes Sociais**  
    - Redes sociais utilizam hash tables para mapear nomes de usuário para IDs.
+
+## Referências  
+Para mais detalhes sobre estruturas de dados, confira o artigo da Alura:  
+[**Estruturas de Dados: uma introdução | Alura**](https://www.alura.com.br/artigos/estruturas-de-dados)
