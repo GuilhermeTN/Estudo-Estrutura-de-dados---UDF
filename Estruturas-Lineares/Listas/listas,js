@@ -1,0 +1,10 @@
+let lista = [10, 20, 30, 40];
+
+// Inserir 25 na posição 2
+lista.splice(2, 0, 25); // lista: [10, 20, 25, 30, 40]
+
+// Remover o elemento na posição 3
+lista.splice(3, 1); // lista: [10, 20, 25, 40]
+
+// Acessar o elemento na posição 1
+console.log(lista[1]); // Saída: 20
